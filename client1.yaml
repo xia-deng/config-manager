@@ -1,10 +1,9 @@
 spring:
   application:
     name: client1
-	
+
 locale:
- data:
-  name: tom
-  age: 12
-  gender: male
-		
+  data:
+    name: tom
+    age: 12
+    gender: male
